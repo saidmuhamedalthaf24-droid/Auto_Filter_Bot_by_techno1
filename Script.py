@@ -1,7 +1,5 @@
-class script(object):
-    START_TXT = """ഞാൻ ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട് ആണ്
-
-<b>ʜᴇʏ {}, {}</b>
+ആണ് script(object):
+    START_TXT = """ഞാൻ ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട് ആണ എന്റെ ഉടമസ്ഥൻ @hishammon ആണ് support ചെയ്യാൻ മറക്കല്ലേ plsssssss <b>ʜᴇʏ {}, {}</b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
 """
@@ -21,7 +19,7 @@ class script(object):
 1️⃣ ꜱᴇᴀʀᴄʜ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ᴏɴ ɢᴏᴏɢʟᴇ.  
 2️⃣ ꜱᴇɴᴅ ᴛʜᴇ ɴᴀᴍᴇ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ.  
 3️⃣ ᴜꜱᴇ ᴛʜɪꜱ ꜰᴏʀᴍᴀᴛ:  
-
+† @hishammon - code
 📌 ꜰᴏʀ ꜱᴇʀɪᴇꜱ:  
 ➤ ᴅʀᴀᴍᴀ ɴᴀᴍᴇ + S01 (ꜰᴏʀ ꜱᴇᴀꜱᴏɴ 1, ᴄʜᴀɴɢᴇ ꜰᴏʀ ᴏᴛʜᴇʀꜱ)  
 
@@ -49,8 +47,9 @@ class script(object):
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+# by hishammon you
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> v1.4 [ Sᴛᴀʙʟᴇ ]</code>
-</b>"""
+</b>"Kolkataode"
 
     CHANNELS = """
 <b>⚡ ɢʀᴏᴜᴘs & ᴄʜᴀɴɴᴇʟs ɪɴғᴏ ⚡ 
@@ -102,7 +101,7 @@ class script(object):
 │
 <b>╰─────────────────────⍟</b>"""
 
-    LOG_TEXT_G = """#NewGroup
+    LOG_TEXT_G = """#NewGroup found ആയി മോനെ പൊളിച്ചു....
     
 Gʀᴏᴜᴘ = {}
 Iᴅ = <code>{}</code>
