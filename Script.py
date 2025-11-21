@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """ഞാൻ ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട് ആണ്
 
 <b>ʜᴇʏ {}, {}</b>
 
