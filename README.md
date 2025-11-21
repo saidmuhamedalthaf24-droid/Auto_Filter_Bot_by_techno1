@@ -31,7 +31,7 @@ Try the live bot here:
 - ✅ Spell Check Toggle (Group Only)
 - ✅ Group Owners Can Manage Settings via Bot PM
 - ✅ Reset All Group Settings (Owner Only)
-- ✅ 3 Verification System
+by Hisham 
 
 ---
 
