@@ -1,4 +1,4 @@
-ആണ് script(object):
+class script(object):
     START_TXT = """ഞാൻ ഒരു ഓട്ടോ ഫിൽറ്റർ ബോട് ആണ എന്റെ ഉടമസ്ഥൻ @hishammon ആണ് support ചെയ്യാൻ മറക്കല്ലേ plsssssss <b>ʜᴇʏ {}, {}</b>
 
 <b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
